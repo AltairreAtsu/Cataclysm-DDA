@@ -38,6 +38,7 @@
     "flags": [ "FLAMMABLE", "ORGANIC", "TRANSPARENT" ],
     "max_volume": "120 ml",
     "examine_action": { "type": "effect_on_condition",	"effect_on_conditions": [ { "id": "EOC_open_evac_center_message_board", "effect": [ { "open_dialogue": { "topic": "TALK_EVAC_CENTER_MESSAGE_BOARD_ROOT" } } ] } ] },
+	"looks_like": "f_bulletin",
     "deconstruct": { "items": [ { "item": "2x4", "count": 4 }, { "item": "nail", "charges": [ 4, 8 ] } ] },
     "bash": {
       "str_min": 3,

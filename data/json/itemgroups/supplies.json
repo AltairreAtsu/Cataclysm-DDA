@@ -787,6 +787,14 @@
     ]
   },
   {
+    "id": "writing_utensils_and_paper",
+    "type": "item_group",
+    "items": [
+      { "item": "paper", "prob": 80, "count": [ 3, 8 ] },
+      { "group": "writing_utensils", "prob": 60 }
+    ]
+  },
+  {
     "id": "pens",
     "type": "item_group",
     "items": [

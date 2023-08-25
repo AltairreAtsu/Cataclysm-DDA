@@ -56,6 +56,7 @@
       "v": "f_utility_shelf",
       "w": "f_utility_shelf",
       "z": "f_crate_c",
+	  "Z": "f_evac_center_bulletin",
       "}": "f_rubble",
       "~": "f_shower"
     },
