@@ -1,0 +1,10 @@
+[
+  {
+    "type": "talk_topic",
+    "id": "TALK_EVAC_CENTER_MESSAGE_BOARD_ROOT",
+    "dynamic_line": "In front of you, you see a cluttered mess of papers that seem to cover every inch of\nfree space on the board.Partially weathered journal sheets, sticky notes, torn out\nnewspaper pages, even magazine fragments are all crowded onto the surface.",
+    "responses": [
+      { "text": "Step back.", "topic": "TALK_DONE" }
+    ]
+  }
+]
